@@ -1,16 +1,31 @@
-## Hi there 👋
+🎓 Computer Science Student  
 
-<!--
-**steven11666/steven11666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 Research Interests
+- Web Application 
+- Network Security
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Application Security
+Hands-on learning and experiments focused on common web vulnerabilities and security testing.
+
+🔗 [View Repository](https://github.com/steven11666/Web-Application-Security)
+
+### OnlineShopFront
+A web application project demonstrating frontend development and application features.
+
+🔗 [View Repository](https://github.com/steven11666/OnlineShopFront)
+
+### OnlineShopBack
+A backend development project focused on application logic and backend functionality.
+
+🔗 [View Repository](https://github.com/steven11666/OnlineShopBack)
+
+### FlutterAPP
+A mobile application project demonstrating application development.
+
+🔗 [View Repository](https://github.com/steven11666/FlutterAPP)
+
+
+
+
